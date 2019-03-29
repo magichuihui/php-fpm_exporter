@@ -1,5 +1,7 @@
 FROM alpine:3.9
 
+MAINTAINER kyra <magichuihui@gmail.com>
+
 ARG BUILD_DATE
 ARG VCS_REF
 ARG VERSION
